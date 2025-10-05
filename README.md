@@ -8,3 +8,4 @@ The LEO orbit is crowded with individual projects that generate pollution and as
 ## Statistic
 ## Bisnes plan
 
+<img width="800" height="500" alt="pobrane (2)" src="https://github.com/user-attachments/assets/0477d21d-6865-406f-bc0a-44fe4fd58f55" />
