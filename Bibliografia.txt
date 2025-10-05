@@ -47,9 +47,14 @@ https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042442 - Publikac
 https://arxiv.org/pdf/2409.02324v1 - Prepublicacja naukowa arXiv
 https://www.researchgate.net/publication/360530427_Hybrid_Uncalibrated_Visual_Servoing_Control_of_Harvesting_Robots_with_RGB-D_Cameras - Hybrydowe sterowanie wizyjne robotów
 https://www.youtube.com/watch?v=yS1ibDImAYU - Materiał wideo YouTube
+https://science.nasa.gov/3d-resources/ - modele satelit od NASA
+https://ben-guthrie.github.io/satvis/ - narzędzie do renerowania syntetycznych zdjęć satelitów
+https://www.aa.washington.edu/news/article/2025-05-12/perfect-angle-using-sunlight-better-track-space-objects - badanie o wpływie kąta Słońca na systemy wizyjne w kosmosie
+
 
 8. Gospodarka i regulacje kosmiczne 
 
 https://www.nasa.gov/humans-in-space/leo-economy-frequently-asked-questions/ - FAQ o gospodarce na niskiej orbicie ziemskiej
 https://www.nasa.gov/artemis-accords/ - Porozumienia Artemis
 https://www.star-dundee.com/spacewire/spacewire-users-guide/the-spacewire-data-handling-network/example-spacewire-mission-architectures/missions-using-spacewire/ - Misje wykorzystujące SpaceWire
+
