@@ -1,0 +1,55 @@
+1. Dane satelitarne i wizualizacje
+
+https://www.kaggle.com/datasets/benguthrie/inorbit-satellite-image-datasets/data - Zbiór danych zawierający obrazy satelitarne na orbicie
+https://ben-guthrie.github.io/satvis/ - Narzędzie do wizualizacji satelitów
+https://platform.leolabs.space/visualization - Platforma LeoLabs do wizualizacji obiektów na orbicie
+
+2. Konstrukcja i komponenty satelitów
+
+https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms/ - Informacje NASA o strukturach, materiałach i mechanizmach małych satelitów
+https://space24.pl/satelity/platforma-satelitarna-szkielet-uklad-nerwowy-i-krwioobieg-satelity-analiza - Analiza platformy satelitarnej (po polsku)
+https://tele.agh.edu.pl/~kulakowski/satelity/structure.html - Struktura satelitów (materiały AGH)
+https://www.intelsat.com/resources/tools/satellite-101/ - Podstawy dotyczące satelitów od Intelsat
+https://www.spacefoundation.org/space_brief/satellite-components/ - Komponenty satelitarne
+
+3. Serwisowanie satelitów na orbicie
+
+https://www.nasa.gov/wp-content/uploads/2023/10/nasa-satellite-servicing-project-report-0511.pdf - Raport NASA o projektach serwisowania satelitów
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/Docking_mechanism_could_lead_to_refuelling_satellites_still_in_orbit - Mechanizmy dokowania ESA umożliwiające tankowanie satelitów na orbicie
+https://space24.pl/bezpieczenstwo/satelita-serwisowy-mev-1-zachwycil-darpa-powstanie-wersja-dla-pentagonu - Satelita serwisowy MEV-1
+
+4. Utylizacja i zarządzanie śmieciami kosmicznymi
+
+https://solc.gsfc.nasa.gov/modules/disposal/mainMenu_textOnly.php - Metody utylizacji misji satelitarnych
+https://orbitaldebris.jsc.nasa.gov/library/usg_orbital_debris_mitigation_standard_practices_november_2019.pdf - Standardy NASA dotyczące łagodzenia problemu śmieci orbitalnych
+https://www.esa.int/Space_Safety/Clean_Space/ESA_s_Zero_Debris_approach - Podejście ESA "Zero Debris"
+
+5. Wpływ śmieci kosmicznych na środowisko 
+
+https://scitechdaily.com/ticking-time-bomb-space-junk-is-eating-away-at-earths-ozone-layer/ - Wpływ śmieci kosmicznych na warstwę ozonową
+https://www.sciencenews.org/article/satellite-space-junk-havoc-stratosphere - Chaos w stratosferze spowodowany satelitami
+https://www.space.com/rocket-launches-satellite-reentries-air-pollution-concerns - Zanieczyszczenie powietrza przez rakiety i ponowne wejścia
+https://www.space.com/air-pollution-reentering-space-junk-detected - Wykryte zanieczyszczenie powietrza od śmieci kosmicznych
+https://www.sciencealert.com/space-junk-is-invisibly-polluting-earth-and-we-only-just-found-out - Niewidzialne zanieczyszczenie Ziemi
+https://www.technologyreview.com/2024/12/09/1108076/satellite-reentry-atmospheric-pollution - Zanieczyszczenie atmosferyczne przez ponowne wejścia
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280 - Publikacja naukowa AGU
+https://colab.ws/articles/10.1029%2F2024gl109280 - Artykuł naukowy
+https://research.noaa.gov/projected-increase-in-space-travel-may-damage-ozone-layer/ - Prognozowany wzrost podróży kosmicznych a warstwa ozonowa
+
+6. Systemy i technologie wspomagające 
+
+https://www.researchgate.net/figure/ASSIST-system-elements-to-be-developed-within-this-activity-are-in-red-Source-ESA_fig1_282790860 - Elementy systemu ASSIST ESA
+https://www.mdpi.com/2226-4310/12/9/819 - Publikacja naukowa MDPI
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JD042442 - Publikacja naukowa AGU
+
+7. Systemy wizyjne i robotyka
+
+https://arxiv.org/pdf/2409.02324v1 - Prepublicacja naukowa arXiv
+https://www.researchgate.net/publication/360530427_Hybrid_Uncalibrated_Visual_Servoing_Control_of_Harvesting_Robots_with_RGB-D_Cameras - Hybrydowe sterowanie wizyjne robotów
+https://www.youtube.com/watch?v=yS1ibDImAYU - Materiał wideo YouTube
+
+8. Gospodarka i regulacje kosmiczne 
+
+https://www.nasa.gov/humans-in-space/leo-economy-frequently-asked-questions/ - FAQ o gospodarce na niskiej orbicie ziemskiej
+https://www.nasa.gov/artemis-accords/ - Porozumienia Artemis
+https://www.star-dundee.com/spacewire/spacewire-users-guide/the-spacewire-data-handling-network/example-spacewire-mission-architectures/missions-using-spacewire/ - Misje wykorzystujące SpaceWire
